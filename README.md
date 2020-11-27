@@ -1,2 +1,8 @@
 # proglang_blog
-**Blog 1** - https://github.com/arshiabehzad/proglang_blog/commit/80e151508fa69b6b7892fc6f8476d00d13234493
+**Blog 1** - https://github.com/arshiabehzad/proglang_blog/blob/main/blog1.md
+<br>
+**Blog 2** - https://github.com/arshiabehzad/proglang_blog/blob/main/blog2.md
+<br>
+**Blog 3** - https://github.com/arshiabehzad/proglang_blog/blob/main/blog3.md
+<br>
+**Blog 4** - https://github.com/arshiabehzad/proglang_blog/blob/main/blog4.md
