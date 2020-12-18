@@ -8,7 +8,7 @@ As given from Kurz lecture notes these are the definition of reflexive, symetric
 
 ![alt text](definition.png "Title")
 
-While this is helpful to see what these three terms are defined as what was more useful to me was seeing the examples of what things fit into these categories. That is what really helped me understand this concept. So in order to be able to make this even easier for others to understand I have provided this Ven Diagram that I made of what exactly constitutes what
+While this is helpful to see what these three terms are defined as what was more useful to me was seeing the examples of what things fit into these categories.  That is what really helped me understand this concept. So in order to be able to make this even easier for others to understand I have provided this Ven Diagram that I made of what exactly constitutes what
 
 ![alt text](venn.png "Title")
 
